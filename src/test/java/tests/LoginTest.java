@@ -45,4 +45,11 @@ public class LoginTest extends BaseTest {
 
     }
 
+    @Test
+    public void loginValido() {
+
+        System.out.println("Ejecutando prueba de login");
+
+    }
+
 }
